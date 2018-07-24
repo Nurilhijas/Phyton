@@ -1,2 +1,2 @@
-# Phyton
-this folder contains phyton problems
+# Python
+This folder contains all python programs
